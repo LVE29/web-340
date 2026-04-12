@@ -1,0 +1,8 @@
+{
+  "name": "distance-calculator",
+  "version": "1.0.0",
+  "main": "src/distance-calculator.js",
+  "scripts": {
+    "test": "node test/distance-calculator.spec.js"
+  }
+}
